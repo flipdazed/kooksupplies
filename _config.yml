@@ -4,10 +4,10 @@
 # Site settings
 title: Kook Supplies
 description: |
-  High performance ankle braces
+  Quantitative Research
 owner: Kook Supplies # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
-email: info@kooksupplies.com
+email: quants@kooksupplies.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.kooksupplies.com" # the base hostname & protocol for your site
 social:
